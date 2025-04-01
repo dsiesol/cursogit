@@ -1,0 +1,2 @@
+# Ejemplo curso git
+![Guia markdown](https://www.open.edu.au/-/media/blog/2023/10-october/learn-how-to-code.jpg?h=477&iar=0&w=715&rev=27fd8b9e501e49bd9722ac012f5336ce&hash=04367A2B2E4D8A637C76FBEB4DEDBF9A)
