@@ -1,2 +1,2 @@
 # Ejemplo curso git
-![Guia markdown]('assets/imagen.jpg')
+![Guia markdown](assets/imagen.jpg)
